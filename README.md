@@ -1,5 +1,5 @@
-Maven Lesscss Plugin
-====================
+Maven Js Minify Plugin
+======================
 
 Copyright (c) Polopoly AB (publ). Dual licensed under the [MIT License] or [GPL Version 2 License].
 
