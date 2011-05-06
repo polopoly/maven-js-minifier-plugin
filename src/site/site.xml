@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<project name="${project.name}">  
+  <publishDate  position="right"/>  
+  <version  position="left"/>  
+  <body>
+    
+    <menu>
+      <item name="Introduction" href="index.html"/>
+      <item name="Documentation" href="plugin-info.html" />
+      <item name="Dependecies" href="dependencies.html"/>
+    </menu>
+    
+  </body>  
+</project>  

@@ -1,0 +1,1 @@
+function thirdVerboseName(input){return"hepphopphipp";}function moreVerbosity(input){return"KHAAAAAAAAAAAAAAAAAN";}

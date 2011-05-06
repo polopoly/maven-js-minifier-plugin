@@ -1,0 +1,1 @@
+function verboseName(input){return"hej";}function verboseOtherName(ainput){return"hoj";}
